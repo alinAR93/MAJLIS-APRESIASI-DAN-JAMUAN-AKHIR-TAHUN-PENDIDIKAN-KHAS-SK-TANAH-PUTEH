@@ -1,0 +1,22 @@
+{
+  "name": "Photobooth Majlis Apresiasi SK Tanah Puteh 2026",
+  "short_name": "Photobooth SKTP",
+  "description": "Aplikasi Photobooth Majlis Apresiasi dan Jamuan Akhir Tahun Pendidikan Khas SK Tanah Puteh 2026",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "frame_potret.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "frame_potret.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
